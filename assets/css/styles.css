@@ -5,3 +5,7 @@
 /* .navbar{
     background-color: transparent !important;
 } */
+
+.card-img-top{
+    height: 200px !important;
+}
